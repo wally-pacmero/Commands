@@ -1,9 +1,9 @@
 <?php
 
-namespace ;
+namespace Craft\Loader;
 
-use \
-use \;
+use Craft\CraftCommand;
+
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\utils\TextFormat as TE;
