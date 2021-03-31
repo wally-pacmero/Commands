@@ -17,5 +17,8 @@ public function onEnable(){
 public function onDisable(){
     $this->getLogger()->info(TE::RED ."InfoPlayer Disable");
 }
+public function __construct(Loader $core) {
+        $this->core = $core;
+        $this->registerCommand(new AnnounceCommand());
 }
-
+}
