@@ -1,6 +1,8 @@
 <?php
 
-namespace Commands\CraftCommand;
+namespace Craft\CraftCommand;
+
+use Craft\Loader;
 
 use pocketmine\block\Block;
 use pocketmine\block\BlockIds;
