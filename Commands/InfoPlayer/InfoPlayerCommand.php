@@ -1,8 +1,8 @@
 <?php
 
-namespace Commands\InfoPlayerCommand;
+namespace InfoPlayer\InfoPlayerCommand;
 
-use \;
+use InfoPlayer\Loader;
 
 use pocketmine\command\{CommandSender, PluginCommand};
 use pocketmine\utils\{Config, TextFormat as TE};
