@@ -1,9 +1,9 @@
 <?php
 
-namespace ;
+namespace Condense\Loader;
 
-use \
-use \;
+use Condense\CondenseCommand;
+
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\utils\TextFormat as TE;
