@@ -1,9 +1,9 @@
 <?php
 
-namespace ;
+namespace InfoPlayer\Loader;
 
-use \
-use \;
+use InfoPlayer\InfoPlayerCommand;
+
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\utils\TextFormat as TE;
