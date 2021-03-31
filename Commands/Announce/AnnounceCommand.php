@@ -1,8 +1,8 @@
 <?php
 
-namespace Commands\AnnounceCommand;
+namespace Announce\AnnounceCommand;
 
-use \Loader;
+use Announce\Loader;
 
 use pocketmine\command\{CommandSender, PluginCommand};
 use pocketmine\utils\TextFormat as TE;
