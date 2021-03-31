@@ -1,9 +1,8 @@
 <?php
 
-namespace ;
+namespace Announce\Loader;
 
-use \
-use \;
+use Announce\AnnounceCommand;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\utils\TextFormat as TE;
